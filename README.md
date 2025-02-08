@@ -15,7 +15,7 @@ A real-time chat application built using the MERN stack (MongoDB, Express.js, Re
 - **Register Page**
   ![image alt](https://github.com/anmoldtuece/chatapp-latest/blob/main/WhatsApp%20Image%202025-02-08%20at%2019.27.06_9bbb16c5.jpg?raw=true)
 - **Home Page**
-
+  ![image alt](https://github.com/anmoldtuece/chatapp-latest/blob/main/WhatsApp%20Image%202025-02-08%20at%2019.27.07_bfeab30c.jpg?raw=true)
 ## Installation Guide
 
 ### Prerequisites
