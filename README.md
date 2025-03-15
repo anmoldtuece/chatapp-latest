@@ -10,7 +10,7 @@ A real-time chat application built using the MERN stack (MongoDB, Express.js, Re
 - Responsive UI
 
 ## CONNECT DEMO
-![video alt]()
+![video alt](chat-app-overview - Made with Clipchamp.mp4)
 
 ## Screenshots
 - **Login Page**
