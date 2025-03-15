@@ -30,5 +30,5 @@ Make sure you have the following installed:
 ### Clone the Repository
 To get started, clone the repository:
 ```bash
-git clone https://github.com/your-username/mern-chat-app.git
-cd mern-chat-app
+git clone https://github.com/anmoldtuece/chatapp-latest.git
+cd chatapp-latest
