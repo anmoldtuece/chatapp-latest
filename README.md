@@ -9,7 +9,7 @@ A real-time chat application built using the MERN stack (MongoDB, Express.js, Re
 - Group and one-on-one chats
 - Responsive UI
 
-## CONNECT DEMO
+## DEMO video of our chat application
 https://github.com/user-attachments/assets/7b5f9a52-b55e-42e6-b200-bef34d88453d
 
 ## Screenshots
