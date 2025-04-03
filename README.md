@@ -9,6 +9,9 @@ A real-time chat application built using the MERN stack (MongoDB, Express.js, Re
 - Group and one-on-one chats
 - Responsive UI
 
+## Project Link
+[Live Link](https://stellular-gnome-b5e2ae.netlify.app/)
+
 ## DEMO video of our chat application
 https://github.com/user-attachments/assets/7b5f9a52-b55e-42e6-b200-bef34d88453d
 
